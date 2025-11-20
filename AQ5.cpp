@@ -75,13 +75,3 @@ int main() {
     
     return 0;
 }
-```
-
-**Example Output:**
-```
-Enter number of elements: 7
-Enter 7 elements: 64 34 25 12 22 11 90
-
-Original array: 64 34 25 12 22 11 90 
-Sorted in increasing order: 11 12 22 25 34 64 90 
-Sorted in decreasing order: 90 64 34 25 22 12 11

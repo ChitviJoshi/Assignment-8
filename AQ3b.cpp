@@ -90,11 +90,3 @@ int main() {
     
     return 0;
 }
-```
-
-**Example Output:**
-```
-Tree elements: 20 30 40 50 60 70 80 
-Enter value to delete: 30
-30 deleted successfully
-Tree elements after deletion: 20 40 50 60 70 80

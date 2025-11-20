@@ -82,9 +82,3 @@ int main() {
     
     return 0;
 }
-```
-
-**Example Output:**
-```
-Tree elements: 20 30 40 50 60 70 80 
-Minimum depth: 3
